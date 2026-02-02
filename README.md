@@ -4,9 +4,7 @@
 ---
 
 ### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjvaldhakad&show_icons=true&theme=dark" />
-</p>
+
 
 ### 🌱 Contribution Graph
 <p align="center">
