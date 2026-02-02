@@ -13,13 +13,14 @@
 ---
 
 ## 🔥 GitHub Stats
+## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjvaldhakad&show_icons=true&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ujjvaldhakad&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjvaldhakad&theme=github-dark&hide_border=true" />
-</p>
 
 ---
 
