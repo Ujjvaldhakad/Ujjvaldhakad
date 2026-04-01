@@ -3,17 +3,20 @@
 </h1>
 
 <h3 align="center">
-  🚀 Web Developer | MERN Stack Learner
+  🚀 Full Stack Web Developer (MERN)
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;React+%7C+Next.js+%7C+Node.js;Learning+Everyday+💻🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real+World+Projects+💻🔥" />
 </p>
 
 ---
 
-
-
+## 👨‍💻 About Me
+- 💻 Passionate about building modern web applications  
+- 🚀 Focused on **Full Stack Development (MERN)**  
+- 🎯 Goal: Become a **Job-ready Full Stack Developer**  
+- ⚡ Love clean UI + scalable backend systems  
 
 ---
 
@@ -24,31 +27,29 @@
 
 ---
 
-## 🛠 Frontend Skills
+## 🛠 Tech Stack
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
----
-
-## ⚙️ Backend Skills
+### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
----
-
-## 🧰 Tools & Others
+### 🧰 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🎯 Currently
-- 🌱 Learning **MERN + Next.js**
-- 💡 Building real-world projects
-- 🎯 Goal: Become a **Job-ready Full Stack Developer**
+## 🚀 What I'm Doing
+- 🔥 Building real-world projects  
+- 🧠 Improving problem-solving skills  
+- ⚡ Exploring advanced **Next.js & Backend Architecture**  
 
 ---
 
