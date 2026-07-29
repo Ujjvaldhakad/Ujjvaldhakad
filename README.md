@@ -1,22 +1,22 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,25:1f1b4e,50:6C63FF,75:00D4FF,100:00F5A0&text=Ujjval%20Dhakad&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,25:1f1b4e,50:6C63FF,75:00D4FF,100:00F5A0&text=ujjwal%20Dhakad&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36"/>
 </p>
 
 <!-- DYNAMIC TYPING HEADER -->
 <p align="center">
-  <a href="https://github.com/ujjvaldhakad">
+  <a href="https://github.com/ujjwaldhakad">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=800&color=00F5A0&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Curious+Builder+%26+Problem+Solver;%F0%9F%9A%80+Crafting+High-Performance+Web+Experiences;%F0%9F%A7%A0+Exploring+Next.js%2C+Backend+%26+System+Design;%F0%9F%92%A1+Code+%7C+Creativity+%7C+Consistency" alt="Typing Header" />
   </a>
 </p>
 
 <!-- SOCIAL & STAT BADGES -->
 <p align="center">
-  <a href="https://github.com/ujjvaldhakad">
-    <img src="https://img.shields.io/github/followers/ujjvaldhakad?style=for-the-badge&logo=github&logoColor=fff&label=Followers&color=6C63FF"/>
+  <a href="https://github.com/ujjwaldhakad">
+    <img src="https://img.shields.io/github/followers/ujjwaldhakad?style=for-the-badge&logo=github&logoColor=fff&label=Followers&color=6C63FF"/>
   </a>
-  <a href="https://github.com/ujjvaldhakad">
-    <img src="https://komarev.com/ghpvc/?username=ujjvaldhakad&style=for-the-badge&color=00D4FF&label=Profile+Views"/>
+  <a href="https://github.com/ujjwaldhakad">
+    <img src="https://komarev.com/ghpvc/?username=ujjwaldhakad&style=for-the-badge&color=00D4FF&label=Profile+Views"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20To-Collaborations-00F5A0?style=for-the-badge&logo=githubsponsors&logoColor=black"/>
   <img src="https://img.shields.io/badge/Status-Building_%F0%9F%9A%80-FF007F?style=for-the-badge"/>
@@ -40,8 +40,8 @@
     </td>
     <td width="40%" valign="top" align="center">
       <h2>⚡ Terminal</h2>
-      <a href="https://github.com/ujjvaldhakad">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=00D4FF&multiline=true&width=350&height=150&lines=const+ujjval+%3D+%7B%0A++role%3A+'Full-Stack+Engineer'%2C%0A++stack%3A+%5B'React'%2C+'Next.js'%2C+'Node'%5D%2C%0A++location%3A+'India+%F0%9F%87%AE%F0%9F%87%B3'%2C%0A++coffeeToCode%3A+true%0A%7D%3B" alt="Terminal UI" />
+      <a href="https://github.com/ujjwaldhakad">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=00D4FF&multiline=true&width=350&height=150&lines=const+ujjwal+%3D+%7B%0A++role%3A+'Full-Stack+Engineer'%2C%0A++stack%3A+%5B'React'%2C+'Next.js'%2C+'Node'%5D%2C%0A++location%3A+'India+%F0%9F%87%AE%F0%9F%87%B3'%2C%0A++coffeeToCode%3A+true%0A%7D%3B" alt="Terminal UI" />
       </a>
     </td>
   </tr>
@@ -88,7 +88,7 @@
       <p>A comprehensive platform for managing student workflows, schedules, and analytics seamlessly.</p>
       <p><b>Tech:</b> <code>Next.js</code> • <code>Firebase</code> • <code>TailwindCSS</code></p>
       <p align="center">
-        <a href="https://github.com/ujjvaldhakad"><b>View Repository ↗</b></a>
+        <a href="https://github.com/ujjwaldhakad"><b>View Repository ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -99,7 +99,7 @@
       <p>Modern online store featuring real-time cart synchronization, secure authentication, and payment integration.</p>
       <p><b>Tech:</b> <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>MongoDB</code></p>
       <p align="center">
-        <a href="https://github.com/ujjvaldhakad"><b>View Repository ↗</b></a>
+        <a href="https://github.com/ujjwaldhakad"><b>View Repository ↗</b></a>
       </p>
     </td>
   </tr>
@@ -111,12 +111,12 @@
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ujjvaldhakad&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F5A0&icon_color=00D4FF" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjvaldhakad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5A0" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ujjwaldhakad&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F5A0&icon_color=00D4FF" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaldhakad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5A0" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com?user=ujjvaldhakad&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=6C63FF&fire=00F5A0" alt="Streak Stats"/>
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com?user=ujjwaldhakad&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=6C63FF&fire=00F5A0" alt="Streak Stats"/>
 </p>
 
 <br/>
@@ -125,7 +125,7 @@
 <h2>📈 Contribution Graph</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjvaldhakad&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwaldhakad&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <br/>
@@ -134,7 +134,7 @@
 <h2>🏆 Achievements & Badges</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujjvaldhakad&theme=algolia&column=6&no-frame=true&margin-w=10&bg_color=0D1117"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ujjwaldhakad&theme=algolia&column=6&no-frame=true&margin-w=10&bg_color=0D1117"/>
 </p>
 
 <br/>
@@ -143,7 +143,7 @@
 <h2>🌍 Let's Connect & Collaborate</h2>
 
 <p align="center">
-  <a href="https://github.com/ujjvaldhakad" target="_blank">
+  <a href="https://github.com/ujjwaldhakad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
@@ -169,5 +169,5 @@
 </p>
 
 <p align="center">
-  <b>⭐ Designed & Maintained by <a href="https://github.com/ujjvaldhakad">Ujjval Dhakad</a></b>
+  <b>⭐ Designed & Maintained by <a href="https://github.com/ujjwaldhakad">ujjwal Dhakad</a></b>
 </p>
